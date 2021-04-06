@@ -1,2 +1,2 @@
 # Ameya_Portfolio
-Portfolio website Describing all the project and works
+Portfolio website Describing all the projects and work.
